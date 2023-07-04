@@ -19,13 +19,11 @@ Date Of Birth
 Employee Age
 - Auto calculate age based on DOB.
 Joined Date
-- Not lessthan 18 years.
+- Not less than 18 years.
 Basic Salary
 - Not less than 10,000 rupees.
 LPA
 - Calculate Salary * 12 = LPA.
-● Hold collected employee details on a list/array. (no need to communicatewith the 
+● Hold collected employee details on a list/array. (no need to communicate with the 
 database)
 ● Need export button to write available employee details to employee.json file.
-Good luck with your assignment.
-- Thank you.
